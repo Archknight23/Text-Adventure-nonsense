@@ -1,0 +1,4 @@
+*.db
+*.db-journal
+*.pyc
+*lib/bot/token.0

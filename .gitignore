@@ -1,0 +1,4 @@
+*.db
+*.db-journal
+--pycache--
+lib/bot/token.0
