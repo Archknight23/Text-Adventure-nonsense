@@ -30,4 +30,5 @@ class Bot(BotBase):
             print("Bot reconnected.")
     async def on_message(self, message):
         pass
-    bot = Bot()
+    
+    bot = Bot(BotBase) 
